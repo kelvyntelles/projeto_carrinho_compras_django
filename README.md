@@ -12,6 +12,9 @@
   - Cliente visualiza valor total do carrinho
   - cliente informa seu nome
   - cliente finaliza pedido
+  
+# Linguagens utilizadas
+Python | Django | Jinja | HTML | CSS | Bootstrap
 
 # PÁGINA PRINCIPAL
 ![image](https://user-images.githubusercontent.com/60902731/221360477-0eba3808-2329-43c6-adcf-850db754ec4a.png)
