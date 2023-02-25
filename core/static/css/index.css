@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: #A52A2A;
+    color: black;
+    height: 4rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.carrinho {
+    background-color: black;
+    padding: 10px;
+    color: white;
+    border-radius: 20px;
+}
+
+section {
+    min-height: 90vh;
+}
+
+.area-produtos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.nome-projeto {
+    text-decoration: none;
+    font-size: 24px;
+    color: white
+}
+
+.area-carrinho {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
